@@ -16,7 +16,7 @@ Proyek ini merupakan final project dari VIX Rakamin X BTPN Syariah yang dibuat u
 
 1. Teks Editor: **Visual Studio Code**, unduh dan install dari [situs resmi Visual Studio Code](https://code.visualstudio.com/)
 
-2. Web Server: **XAMPP** , dapat diunduh di [sini](https://www.apachefriends.org/download.html)
+2. Web Server: **XAMPP** , dapat diunduh [disini](https://www.apachefriends.org/download.html)
 
 3. Pengujian: **Postman**, unduh dan install dari [situs resmi Postman](https://www.postman.com/downloads/)
 
@@ -49,3 +49,7 @@ Jika Anda memiliki pertanyaan, saran, atau masalah terkait proyek ini, jangan ra
 
 - Nama: Faradila Suhaefi
 - LinkedIn: [Profil LinkedIn Anda](https://www.linkedin.com/in/faradilasuhaefi)
+
+## Catatan
+
+Source Code berada di Branch Master
