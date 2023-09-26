@@ -49,7 +49,3 @@ Jika Anda memiliki pertanyaan, saran, atau masalah terkait proyek ini, jangan ra
 
 - Nama: Faradila Suhaefi
 - LinkedIn: [Profil LinkedIn Anda](https://www.linkedin.com/in/faradilasuhaefi)
-
-## Catatan
-
-Source Code berada di Branch Master
