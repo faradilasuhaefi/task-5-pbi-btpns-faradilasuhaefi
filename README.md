@@ -18,7 +18,7 @@ Proyek ini merupakan final project dari VIX Rakamin X BTPN Syariah yang dibuat u
 
 2. Web Server: **XAMPP** , dapat diunduh di [sini](https://www.apachefriends.org/download.html)
 
-3. Pengujian: **Postman**, unduh dan install dari [situs resmi Postman(https://www.postman.com/downloads/)
+3. Pengujian: **Postman**, unduh dan install dari [situs resmi Postman](https://www.postman.com/downloads/)
 
 ## Instalasi
 
